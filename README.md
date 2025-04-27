@@ -33,3 +33,14 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ebtissam24D&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebtissam24D&layout=compact&theme=tokyonight)
+
+# 🚀 About Me:
+- 🌱 Toujours en train d'apprendre de nouvelles compétences en programmation.
+- 🎯 Axé sur la création de projets innovants et performants.
+- 📫 N'hésite pas à me contacter pour collaborer !
